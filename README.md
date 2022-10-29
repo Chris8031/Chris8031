@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chris8031
 - 👀 I’m interested in health data analytics
-- 🌱 I’m currently learning R and Python
+- 🌱 I’m currently learning R
 - 📫 How to reach me - Email me at christophernyunt@gmail.com
 
 <!---
